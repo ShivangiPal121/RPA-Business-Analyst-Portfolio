@@ -38,9 +38,3 @@ This repository showcases some of my **sample deliverables** based on real-world
 ---
 
 ⭐ *This portfolio demonstrates how I apply Business Analysis skills in RPA and automation contexts. It includes documentation samples, workflows, and test cases aligned with UiPath projects.*
-
----
-
-## 📬 Contact
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your Email]  
