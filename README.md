@@ -17,9 +17,6 @@ This repository showcases some of my **sample deliverables** based on real-world
 ### 3. Workflow Diagrams
 - [UiPath Workflow – API Timeout Handling](UIPATH/UiPath_Hotel_API_Workflow.png)
 
-### 4. Case Study Article
-- [How RPA Can Automate API Response Validation (PDF)](CaseStudy/Medium_Article_RPA_API_Validation.pdf)
-
 ---
 
 ## 🛠 Skills & Tools
@@ -31,7 +28,7 @@ This repository showcases some of my **sample deliverables** based on real-world
 ---
 
 ## 📬 Contact
-- **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/shivangi-pal-a652b9185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIjDI6EBJTXSUwv8B17kHlg%3D%3D)]  
+- **LinkedIn:** [[LinkedIn Profile Link](https://www.linkedin.com/in/shivangi-pal-a652b9185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIjDI6EBJTXSUwv8B17kHlg%3D%3D)]  
 - **Email:** [sony805pal@gmail.com]  
 
 ---
