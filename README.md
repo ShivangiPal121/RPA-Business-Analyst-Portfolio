@@ -33,7 +33,7 @@ This repository showcases some of my **sample deliverables** based on real-world
 
 ## 📬 Contact
 - **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Email:** [Your Email Address]  
+- **Email:** [sony805pal@gmail.com]  
 
 ---
 
