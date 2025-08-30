@@ -12,7 +12,7 @@ This repository showcases some of my **sample deliverables** based on real-world
 - [Amadeus API Response Validation – PDD](PDD/PDD_Amadeus_API_Response_Validation.pdf)
 
 ### 2. UAT Test Cases
-- [API Response Validation – UAT Scenarios (PDF)](APIUAT/UAT_API_INTEGRATION.pdf)
+- [API Response Validation – UAT Scenarios (PDF)](APIUAT/UAT_API_INTEGRATION_11.pdf)
 
 ### 3. Workflow Diagrams
 - [UiPath Workflow – API Timeout Handling](Workflow/UiPath_API_Timeout_Workflow.png)
