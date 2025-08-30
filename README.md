@@ -3,7 +3,7 @@ Welcome to my portfolio! 👋   I specialize in **Business Analysis, RPA (UiPath
 ## 📂 Portfolio Contents
 
 ### 1. Process Definition Documents (PDDs)
-- [Amadeus API Response Validation – Sample PDD](PDD/Amadeus_API_Response_PDD.pdf)  
+- [Amadeus API Response Validation – Sample PDD]([PDD/Amadeus_API_Response_PDD.pdf](https://github.com/ShivangiPal121/RPA-Business-Analyst-Portfolio/blob/main/PDD_Amadeus_API_Response_Validation.docx))  
 - [TripsnStay API Case Study – Sample PDD](PDD/TripsnStay_API_PDD.pdf)  
 
 ### 2. UAT Test Scenarios
