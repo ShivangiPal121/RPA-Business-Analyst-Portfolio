@@ -13,7 +13,6 @@ This repository showcases some of my **sample deliverables** based on real-world
 
 ### 2. UAT Test Cases
 - [API Response Validation – UAT Scenarios (PDF)](UAT/UAT_Scenarios_API_Validation.pdf)  
-- [API Response Validation – UAT Scenarios (Excel)](UAT/UAT_Scenarios_API_Validation.xlsx)
 
 ### 3. Workflow Diagrams
 - [UiPath Workflow – API Timeout Handling](Workflow/UiPath_API_Timeout_Workflow.png)
