@@ -15,7 +15,7 @@ This repository showcases some of my **sample deliverables** based on real-world
 - [API Response Validation – UAT Scenarios (PDF)](APIUAT/API_Integration_UAT_Scenario.pdf.pdf)
 
 ### 3. Workflow Diagrams
-- [UiPath Workflow – API Timeout Handling](UIPATH_WORKFLOW/UiPath_Hotel_API_Workflow.png)
+- [UiPath Workflow – API Timeout Handling](UIPATH_WORKFLOW)
 
 ### 4. Case Study Article
 - [How RPA Can Automate API Response Validation (PDF)](CaseStudy/Medium_Article_RPA_API_Validation.pdf)
