@@ -31,7 +31,7 @@ This repository showcases some of my **sample deliverables** based on real-world
 ---
 
 ## 📬 Contact
-- **LinkedIn:** [Your LinkedIn Profile Link]  
+- **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/shivangi-pal-a652b9185?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIjDI6EBJTXSUwv8B17kHlg%3D%3D)]  
 - **Email:** [sony805pal@gmail.com]  
 
 ---
